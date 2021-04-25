@@ -12,4 +12,17 @@ He does not know how to estimate price of mobiles his company creates. In this c
 
 Bob wants to find out some relation between features of a mobile phone(eg:- RAM,Internal Memory etc) and its selling price. But he is not so good at Machine Learning. So he needs your help to solve this problem.
 
-In this problem you do not have to predict actual price but a price range indicating how high the price is
+In this problem you do not have to predict actual price but a price range indicating how high the price is.
+
+## Progres
+
+* [x] Predpríprava dát
+   * [x] Normalizácia dát 
+   * [x] Použitie OneHotEncoderu
+   * [x] Rozdelenie dát na trénovacie a testovacie
+* [ ] Neurónová sieť
+
+## TODO list
+
+* Porovnať učenie neurónovej siete na normalizovaných a nenormalizovaných dátach.
+* Porovnať výsledky neurónovej siete v rôznom pomere trénovacich a testovacích dát.

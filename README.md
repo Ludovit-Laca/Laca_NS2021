@@ -23,6 +23,7 @@ In this problem you do not have to predict actual price but a price range indica
 * [x] Neurónová sieť
    * [x] Modelovanie
    * [x] Trénovanie
+* [x] Testovanie
 
 ## TODO list
 

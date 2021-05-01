@@ -20,9 +20,12 @@ In this problem you do not have to predict actual price but a price range indica
    * [x] Normalizácia dát 
    * [x] Použitie OneHotEncoderu
    * [x] Rozdelenie dát na trénovacie a testovacie
-* [ ] Neurónová sieť
+* [x] Neurónová sieť
+   * [x] Modelovanie
+   * [x] Trénovanie
 
 ## TODO list
 
 * Porovnať učenie neurónovej siete na normalizovaných a nenormalizovaných dátach.
 * Porovnať výsledky neurónovej siete v rôznom pomere trénovacich a testovacích dát.
+* Skúšanie inej optimalizačnej funkcie, iný počet iterácií 
